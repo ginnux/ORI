@@ -17,4 +17,4 @@ The headfile is in "DISK_C/ORI/HEAD"
 
 © All rights reserved
 
-© Tingmao Ye, Xinjian Liang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
+© Tingmao Ye, Xinjian Liang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, Hubei, China
