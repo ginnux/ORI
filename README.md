@@ -30,4 +30,5 @@ The headfile is in "DISK_C/ORI/HEAD"
 © 版权所有
 
 © Tingmao Ye, Xinjian Liang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, Hubei, China
+
 © 叶庭茂，梁忻健，人工智能与自动化学院，华中科技大学，武汉市，湖北省，中国。
