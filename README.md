@@ -23,12 +23,12 @@ The source code is in "DISK_C/ORI/SOURCE"
 The headfile is in "DISK_C/ORI/HEAD"
 头文件位于 "DISK_C/ORI/HEAD"
 
-© Do not use for commercial purpose
-© 严禁商用
+Do not use for commercial purpose
+严禁商用
 
 © All rights reserved
-© 版权所有
+© 保留所有权利
 
-© Tingmao Ye, Xinjian Liang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, Hubei, China
+Tingmao Ye, Xinjian Liang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, Hubei, China
 
-© 叶庭茂，梁忻健，人工智能与自动化学院，华中科技大学，武汉市，湖北省，中国。
+叶庭茂，梁忻健，人工智能与自动化学院，华中科技大学，武汉市，湖北省，中国。
